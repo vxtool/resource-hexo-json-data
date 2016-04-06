@@ -1,0 +1,29 @@
+{
+  "name": "hexo-generator-json-data",
+  "version": "1.0.0",
+  "description": "Hexo plugin to generate a JSON file with the posts",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/resource-solutions/resource-hexo-json-data.git"
+  },
+  "keywords": [
+    "hexo",
+    "json",
+    "generator",
+    "content"
+  ],
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/resource-solutions/resource-hexo-json-data/issues"
+  },
+  "homepage": "https://github.com/resource-solutions/resource-hexo-json-data",
+  "dependencies": {
+    "hexo-util": "latest",
+    "keyword-extractor": "latest"
+  }
+}
