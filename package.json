@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/resource-solutions/resource-hexo-json-data.git"
+    "url": "https://github.com/descco-tools/resource-hexo-json-data.git"
   },
   "keywords": [
     "hexo",
@@ -16,12 +16,12 @@
     "generator",
     "content"
   ],
-  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://hemersonvianna.io)",
+  "author": "Hemerson Vianna <hemerson.lourenco@gmail.com> (http://descco.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/resource-solutions/resource-hexo-json-data/issues"
+    "url": "https://github.com/descco-tools/resource-hexo-json-data/issues"
   },
-  "homepage": "https://github.com/resource-solutions/resource-hexo-json-data",
+  "homepage": "https://github.com/descco-tools/resource-hexo-json-data",
   "dependencies": {
     "hexo-util": "latest",
     "keyword-extractor": "latest"
