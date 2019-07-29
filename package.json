@@ -1,6 +1,6 @@
 {
   "name": "hexo-generator-json-data",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Hexo plugin to generate a JSON file with the posts",
   "main": "index.js",
   "scripts": {
